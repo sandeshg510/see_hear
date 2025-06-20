@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static final FirebaseOptions android = FirebaseOptions(
-    apiKey: FirebaseConfig.apiKey!,
-    appId: '1:649633562370:android:88859c94a8927798020c1b',
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: FirebaseConfig.apiKey,
+    appId: FirebaseConfig.appId,
     messagingSenderId: '649633562370',
     projectId: 'seehear-67cdd',
     storageBucket: 'seehear-67cdd.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA-zKtw_nY8lslDGlvRsR2LZVvrA2iQDgI',
-    appId: '1:649633562370:ios:2cdce4bcf118dc8f020c1b',
+    apiKey: FirebaseConfig.apiKey,
+    appId: FirebaseConfig.appId,
     messagingSenderId: '649633562370',
     projectId: 'seehear-67cdd',
     storageBucket: 'seehear-67cdd.firebasestorage.app',
