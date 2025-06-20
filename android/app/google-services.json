@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649633562370",
+    "project_id": "seehear-67cdd",
+    "storage_bucket": "seehear-67cdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649633562370:android:88859c94a8927798020c1b",
+        "android_client_info": {
+          "package_name": "com.example.seehear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNWGRf1KoZSMz6DbwIrP2sIlhd24nlzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
