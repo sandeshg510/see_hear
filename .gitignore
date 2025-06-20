@@ -47,3 +47,4 @@ app.*.map.json
 # Sensitive APP Keys and Id's
 /lib/core/config/agora_config.dart
 /lib/core/config/firebase_config.dart
+android/app/google-services.json
